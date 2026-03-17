@@ -1,0 +1,105 @@
+{
+  "publisher": "Julian Apps",
+  "contact": {
+    "email": "zhangqiran2025@163.com",
+    "wechat": "julianIos",
+    "xiaohongshu": "947229000"
+  },
+  "products": [
+    {
+      "id": "screen-translator",
+      "name": "Screen-Translator",
+      "category": "Utilities",
+      "platforms": ["iOS", "iPadOS", "macOS (Apple Silicon)", "visionOS"],
+      "requirements": {
+        "iOS": "17.4+",
+        "iPadOS": "17.4+",
+        "macOS": "14.4+ (Apple Silicon)",
+        "visionOS": "1.1+"
+      },
+      "pricing": {
+        "type": "free_with_iap"
+      },
+      "privacy": "no_data_collected",
+      "appStoreUrl": "https://apps.apple.com/cn/app/screen-translator/id6752405078",
+      "facts": [
+        "支持截屏或背部轻点一键翻译",
+        "实时语音对话翻译",
+        "拍照翻译与任意文本翻译",
+        "多语言支持"
+      ]
+    },
+    {
+      "id": "ai-recording",
+      "name": "AI recording",
+      "category": "Utilities",
+      "platforms": ["iOS", "iPadOS", "macOS (Apple Silicon)", "visionOS"],
+      "requirements": {
+        "iOS": "16.6+",
+        "iPadOS": "16.6+",
+        "macOS": "13.5+ (Apple Silicon)",
+        "visionOS": "1.0+"
+      },
+      "pricing": {
+        "type": "free_with_iap"
+      },
+      "privacy": "no_data_collected_offline",
+      "appStoreUrl": "https://apps.apple.com/cn/app/ai-recording/id6748564233",
+      "facts": [
+        "录音自动转写并生成摘要",
+        "语音让 AI 直接修改文本笔记",
+        "录音剪辑/替换/续录",
+        "离线运行，无数据上传",
+        "iCloud 同步"
+      ]
+    },
+    {
+      "id": "closetai-outfit-consultant",
+      "name": "ClosetAI·Outfit Consultant",
+      "category": "Lifestyle",
+      "platforms": ["iOS", "iPadOS", "macOS (Apple Silicon)", "visionOS"],
+      "requirements": {
+        "iOS": "16+",
+        "iPadOS": "16+",
+        "macOS": "13.0+ (Apple Silicon)",
+        "visionOS": "1.0+"
+      },
+      "pricing": {
+        "type": "paid",
+        "priceCNY": 38.0
+      },
+      "privacy": "no_data_collected",
+      "appStoreUrl": "https://apps.apple.com/cn/app/closetai-outfit-consultant/id6747586552",
+      "facts": [
+        "结合天气/日程/偏好/穿着次数与色彩搭配推荐穿搭",
+        "自动扣图快速录入",
+        "按名称、颜色、季节、位置、风格、类型管理",
+        "保存与检索穿搭历史，标签搜索",
+        "iCloud 同步与备份"
+      ]
+    },
+    {
+      "id": "pulse-heart-rate",
+      "name": "Pulse·Heart Rate",
+      "category": "Health & Fitness",
+      "platforms": ["iOS (iPhone)"],
+      "requirements": {
+        "iOS": "14+"
+      },
+      "pricing": {
+        "type": "free_with_iap"
+      },
+      "privacy": "data_collected_not_linked_to_identity_health_fitness",
+      "appStoreUrl": "https://apps.apple.com/cn/app/pulse-heart-rate/id6746666626",
+      "facts": [
+        "基于摄像头的心率测量",
+        "集成 Apple 健康心率数据",
+        "历史趋势追踪与可视化",
+        "心率异常提醒",
+        "个性化健康建议",
+        "仅作健康参考，非医疗器械"
+      ]
+    }
+  ]
+}
+
