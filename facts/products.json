@@ -23,10 +23,11 @@
       "privacy": "no_data_collected",
       "appStoreUrl": "https://apps.apple.com/cn/app/screen-translator/id6752405078",
       "facts": [
-        "支持截屏或背部轻点一键翻译",
-        "实时语音对话翻译",
-        "拍照翻译与任意文本翻译",
-        "多语言支持"
+        "同声传译与实时对话翻译",
+        "屏幕翻译与网页翻译",
+        "拍照翻译与图片文字识别",
+        "游戏/漫画场景翻译",
+        "文件与文本翻译"
       ]
     },
     {
@@ -99,7 +100,70 @@
         "个性化健康建议",
         "仅作健康参考，非医疗器械"
       ]
+    },
+    {
+      "id": "lockcanvas-widget",
+      "name": "LockCanvas·Widget",
+      "category": "Utilities",
+      "platforms": ["iOS (iPhone)"],
+      "requirements": {
+        "iOS": "16+"
+      },
+      "pricing": {
+        "type": "free_with_iap"
+      },
+      "privacy": "no_data_collected",
+      "appStoreUrl": "https://apps.apple.com/cn/app/lockcanvas-widget/id6747090347",
+      "facts": [
+        "动画锁屏小组件",
+        "4K 动态壁纸",
+        "100+ 贴纸与文本自定义"
+      ]
+    },
+    {
+      "id": "chinatravel-learn",
+      "name": "ChinaTravel·Learn",
+      "category": "Travel",
+      "platforms": ["iOS", "iPadOS", "macOS (Apple Silicon)", "visionOS"],
+      "requirements": {
+        "iOS": "14+",
+        "iPadOS": "14+",
+        "macOS": "11.0+ (Apple Silicon)",
+        "visionOS": "1.0+"
+      },
+      "pricing": {
+        "type": "paid",
+        "priceCNY": 38.0
+      },
+      "privacy": "no_data_collected",
+      "appStoreUrl": "https://apps.apple.com/cn/app/chinatravel-learn/id6746865247",
+      "facts": [
+        "情景化中文学习与实景对话",
+        "每句配音频与跟读练习",
+        "英文助读提示，零基础友好"
+      ]
+    },
+    {
+      "id": "ai-a",
+      "name": "AI.A",
+      "category": "Productivity",
+      "platforms": ["iOS", "iPadOS", "macOS (Apple Silicon)", "visionOS"],
+      "requirements": {
+        "iOS": "17+",
+        "iPadOS": "17+",
+        "macOS": "14.0+ (Apple Silicon)",
+        "visionOS": "1.0+"
+      },
+      "pricing": {
+        "type": "free_with_iap"
+      },
+      "privacy": "no_data_collected",
+      "appStoreUrl": "https://apps.apple.com/cn/app/ai-a/id6757102303",
+      "facts": [
+        "新股日历与热门追踪",
+        "资金流向与成交额榜单",
+        "AI 解读个股与行业"
+      ]
     }
   ]
 }
-
