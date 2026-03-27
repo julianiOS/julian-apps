@@ -164,6 +164,30 @@
         "资金流向与成交额榜单",
         "AI 解读个股与行业"
       ]
+    },
+    {
+      "id": "ai-auto-accounting",
+      "name": "记账 - AI自动记账",
+      "category": "Finance",
+      "platforms": ["iOS", "iPadOS", "macOS (Apple Silicon)", "visionOS"],
+      "requirements": {
+        "iOS": "17+",
+        "iPadOS": "17+",
+        "macOS": "14.0+ (Apple Silicon)",
+        "visionOS": "1.0+"
+      },
+      "pricing": {
+        "type": "free_with_iap"
+      },
+      "privacy": "no_data_collected",
+      "appStoreUrl": "https://apps.apple.com/cn/app/%E8%AE%B0%E8%B4%A6-ai%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6-%E8%B4%A6%E6%9C%AC-%E6%94%B6%E6%94%AF-%E8%B4%A6%E5%8D%95-%E7%90%86%E8%B4%A2/id6760935313",
+      "facts": [
+        "语音自动记账：双击触发录音，自动识别金额、分类与备注",
+        "屏幕智能记账：在支付页面截屏自动解析账单并记录",
+        "收支明细与统计：分类饼图与每日趋势",
+        "iCloud 同步：数据本地存储并云端同步",
+        "隐私优先：未收集数据"
+      ]
     }
   ]
 }
